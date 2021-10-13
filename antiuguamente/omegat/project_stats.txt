@@ -1,0 +1,14 @@
+12/10/21 12:12
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	       37	    1152	                     5599	                     6711	        1	
+Pendientes:       	       37	    1152	                     5599	                     6711	        1	
+Únicos:           	       36	    1136	                     5520	                     6617	        1	
+Pendientes únicos:	       36	    1136	                     5520	                     6617	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo   	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+la_antiuguacion.docx	                37	                  37	              36	                         36	          1152	               1152	           1136	                      1136	                           5599	                                5599	                            5520	                                       5520	                           6711	                                6711	                            6617	                                       6617	
